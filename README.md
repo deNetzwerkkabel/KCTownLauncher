@@ -1,2 +1,5 @@
 # KCTownLauncher
-Launcher von KCTown
+Dies ist der Game Launcher zu dem Gam KCTown von KCLucas.
+
+
+Copyright (©) 2020 bei Morten Krisch
