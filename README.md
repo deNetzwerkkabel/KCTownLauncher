@@ -9,6 +9,8 @@ Windows 32BIT
 
 Windows 64BIT
 
+#
+
 macOS 64BIT | Höchste Kompatibiltät
 
 macOS 64BIT | Apple Silicon-Unterstützung
