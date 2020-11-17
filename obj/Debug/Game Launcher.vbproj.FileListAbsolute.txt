@@ -1,0 +1,17 @@
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\Game Launcher.vbprojAssemblyReference.cache
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\Game_Launcher.GameLauncher.resources
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\Game_Launcher.Resources.resources
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\Game_Launcher.SplashScreen1.resources
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\Game Launcher.vbproj.GenerateResource.cache
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\Game Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Morten Krisch\source\repos\Game Launcher\bin\Debug\PyGame Launcher.exe.config
+C:\Users\Morten Krisch\source\repos\Game Launcher\bin\Debug\PyGame Launcher.exe.manifest
+C:\Users\Morten Krisch\source\repos\Game Launcher\bin\Debug\PyGame Launcher.application
+C:\Users\Morten Krisch\source\repos\Game Launcher\bin\Debug\PyGame Launcher.exe
+C:\Users\Morten Krisch\source\repos\Game Launcher\bin\Debug\PyGame Launcher.pdb
+C:\Users\Morten Krisch\source\repos\Game Launcher\bin\Debug\PyGame Launcher.xml
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\PyGame Launcher.exe.manifest
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\PyGame Launcher.application
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\PyGame Launcher.exe
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\PyGame Launcher.xml
+C:\Users\Morten Krisch\source\repos\Game Launcher\obj\Debug\PyGame Launcher.pdb
