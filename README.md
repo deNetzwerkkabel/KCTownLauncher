@@ -14,6 +14,6 @@ Windows 7/8/10 64BIT
 #####
 #####
 #
-##### Copyright (©) 2020 bei Lasse Peters(Tendoxe), Lucas Mergner(KCLucas) und Morten Krisch(DevNetzwerkkabel
+##### Copyright (©) 2020 bei Lasse Peters(Tendoxe), Lucas Mergner(KCLucas) und Morten Krisch(DevNetzwerkkabel)
 ###### In Kooperation mit der IGS Krummhörn-Hinte
 
