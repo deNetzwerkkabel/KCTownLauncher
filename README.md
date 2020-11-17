@@ -5,9 +5,11 @@ Dies ist der Launcher von PyGame-Spielen.
 
 ### Folgende Betriebsysteme werden unterstützt:
 
-Windows 32BIT
+Windows XP/Vista/7/8/10 32BIT
 
-Windows 64BIT
+Windows 7/8/10 64BIT
+
+#### Hinweis: Das Programm benötigt .NET 4.0 oder neuer!
 
 #####
 #####
