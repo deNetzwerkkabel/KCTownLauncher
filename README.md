@@ -1,4 +1,4 @@
-# PyGameLauncher
+# PyGameLauncher Windows
 Dies ist der Launcher von PyGame-Spielen.
 
 ## Installation
@@ -8,17 +8,6 @@ Dies ist der Launcher von PyGame-Spielen.
 Windows 32BIT
 
 Windows 64BIT
-
-#
-
-macOS 64BIT | Höchste Kompatibiltät
-
-macOS 64BIT | Apple Silicon-Unterstützung
-
-#
-
-Linux 64BIT | Debian, Ubuntu
-
 
 #####
 #####
